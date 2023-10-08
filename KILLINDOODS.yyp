@@ -3,9 +3,11 @@
   "resourceVersion": "1.6",
   "name": "KILLINDOODS",
   "resources": [
+    {"id":{"name":"PlayerStateJump","path":"scripts/PlayerStateJump/PlayerStateJump.yy",},"order":8,},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"order":0,},
     {"id":{"name":"sPlayerRun","path":"sprites/sPlayerRun/sPlayerRun.yy",},"order":1,},
-    {"id":{"name":"sTiles","path":"sprites/sTiles/sTiles.yy",},"order":3,},
+    {"id":{"name":"sPlayerJump","path":"sprites/sPlayerJump/sPlayerJump.yy",},"order":3,},
+    {"id":{"name":"PlayerStateFree","path":"scripts/PlayerStateFree/PlayerStateFree.yy",},"order":7,},
     {"id":{"name":"s_coll","path":"sprites/s_coll/s_coll.yy",},"order":2,},
     {"id":{"name":"MACROS","path":"scripts/MACROS/MACROS.yy",},"order":6,},
     {"id":{"name":"PlayerAnimateSprite","path":"scripts/PlayerAnimateSprite/PlayerAnimateSprite.yy",},"order":2,},
